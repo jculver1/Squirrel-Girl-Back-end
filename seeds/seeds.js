@@ -28,7 +28,7 @@ exports.seed = function(knex, Promise) {
           quote: "Let's get nuts!", img: 'https://cdn.vox-cdn.com/thumbor/lte6YUEU1N1rOiVdDkU4gkhrzMY=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/54086849/squirrelgirl.0.jpg'},
         {
           id: 8,
-          quote: "I'M SQUIRREL GIRL! THIS IS MY FRIEND TIPPY-TOE!! WE'RE HERE TO KICK BUTTS AND EAT NUTS.", img: 'https://prodimage.images-bn.com/pimages/9781302902247_p0_v2_s550x406.jpg'},
+          quote: "I'M SQUIRREL GIRL! THIS IS MY FRIEND TIPPY-TOE!! WE'RE HERE TO KICK BUTTS AND EAT NUTS.", img: 'http://www.marvunapp.com/Appendix/sqlgrl-tippytoe-attacking.jpg'},
       ]);
     });
 };
